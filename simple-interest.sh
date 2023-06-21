@@ -4,7 +4,7 @@
 # Do not use this in production. Sample purpose only.
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# Sienna Hsu
+# siennahsu
 # Input:
 # p, principal amount
 # t, time period in years
